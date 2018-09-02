@@ -9,3 +9,12 @@ Determing the existence of kyphosis after surgery with Decision Tree and Random 
 ![Screenshot](images/5.png)
 
 
+## Decision Tree Accuracy
+
+0.8095238095238095
+
+## Random Forest Accuracy
+
+0.8571428571428571
+
+
